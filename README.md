@@ -1,2 +1,2 @@
 # cl_snn
-cl with snn
+Dynamic Elastic Weight Consolidation for Continual Learning in Spiking Neural Networks
