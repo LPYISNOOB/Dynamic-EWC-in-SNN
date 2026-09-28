@@ -1,2 +1,2 @@
 # cl_snn
-Dynamic Elastic Weight Consolidation for Continual Learning in Spiking Neural Networks
+针对脉冲神经网络持续学习中因稀疏脉冲活动和时空任务冲突导致的灾难性遗忘问题，提出了一种增强型弹性权重巩固方法，通过利用脉冲率特征、引入任务感知的动态惩罚系数机制以及可参数化神经元，根据新旧任务验证损失实时调整正则化强度
